@@ -1,8 +1,3 @@
-Here's the README:
-
----
-
-```markdown
 <div align="center">
 
 # FlowJob
@@ -374,4 +369,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 <div align="center">
 Built with Spring Boot · Deployed on Linux · Monitored with Grafana
 </div>
-```
